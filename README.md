@@ -1,5 +1,7 @@
-### Привет!
+### Hi!
 
-Меня зовут Василиса Морозова. 
-Учусь уже год в школе 21 (ecole 42) и уже три в НИУ ВШЭ на специальности ИВТ (специализация "Сетевые видеотехнологии").
-Очень хочется найти какой-нибудь чисто программистский проект, потому что до этого я занималась в основном интеграцией уже существующего ПО.
+My name's Vasilisa! 
+I've been learning at 
+-school21/ecole42 for a year and 
+-in my fourth year of Higher School of economics for bachelor of Information Science and Computation Technology (Network videotech speciality). 
+  I wanna find project to upward my programming skills a lot, cause I'm tired of software intergration.
