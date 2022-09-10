@@ -25,7 +25,7 @@
 
 ## 🧠 Education
 
-- Information science and computtion technology, Higher School of economics, Moscow
+- Information science and computation technology, Higher School of economics, Moscow
 - School42
 
 ## 📊 Stats
