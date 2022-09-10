@@ -15,11 +15,10 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-
-<img src="./pics/LR.png" alt="Loadrunner" style="height: 22px; width:22px;"/>
-<img src="./pics/ffmpeg.png" alt="FFmpeg" style="height: 22px; width:22px;"/>
-<img src="./pics/asm.png" alt="Assembler" style="height: 22px; width:22px;"/>
-<img src="./pics/gst.png" alt="GStreamer" style="height: 22px; width:22px;"/>
+<img src="./pics/LR.jpeg" alt="Loadrunner" style="height: 30px"/>
+<img src="./pics/ffmpeg.jpeg" alt="FFmpeg" style="height: 30px"/>
+<img src="./pics/asm.jpeg" alt="Assembler" style="height: 30px"/>
+<img src="./pics/gst.jpeg" alt="GStreamer" style="height: 30px; "/>
 <br/>
 <br/>
 
