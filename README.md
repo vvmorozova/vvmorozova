@@ -27,3 +27,5 @@
 - Information science and computation technology, Higher School of economics, Moscow
 - School42
 
+## 📈 Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvmorozova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
