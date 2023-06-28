@@ -1,6 +1,6 @@
 ![](./pics/banner.png)
 ## 📱 Contact me
-<img src="./pics/telegram.svg" alt="Telegram" style="height: 22px; width:22px;"/> @ella_ward
+<img src="./pics/telegram.svg" alt="Telegram" style="height: 22px; width:22px;"/> @vasuyan4ik
 
 <br/>
 
